@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.1",
+    "mysql2": "^3.4.5",
+    "sequelize": "^6.32.1",
+    "sequelize-cli": "^6.6.1",
+    "socket.io": "^4.7.1"
+  },
+  "name": "location_sharing_app",
+  "description": "Backend logic of location sharing app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohanMaher777/Location_sharing_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohanMaher777/Location_sharing_app/issues"
+  },
+  "homepage": "https://github.com/RohanMaher777/Location_sharing_app#readme"
+}
